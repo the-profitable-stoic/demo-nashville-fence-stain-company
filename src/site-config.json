@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Nashville Fence Stain Company",
+    "phone": "+16154238432",
+    "category": "fence contractor",
+    "city": "Nashville",
+    "state": "TN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Nashville's Fence Stain Experts",
+      "heroSubline": "Protect and beautify your property with our professional fence staining services. Serving Nashville, Franklin, and surrounding areas.",
+      "aboutTitle": "Protecting Nashville Fences for Over a Decade",
+      "aboutText": [
+        "Nashville Fence Stain Company started with a simple mission: to provide top-quality fence staining services to our neighbors. For over 12 years, we've been battling Nashville's unpredictable weather, from scorching summers to the occasional ice storm, ensuring fences stand the test of time.",
+        "We believe in doing the job right the first time. Our approach combines proven techniques with premium materials, tailored to the specific needs of your fence and the Nashville climate. We treat every project as if it were our own, ensuring meticulous attention to detail and lasting results.",
+        "We're proud to be a part of the Nashville community. We actively support local initiatives and believe in giving back. Our commitment extends beyond just staining fences; it's about building lasting relationships and contributing to the well-being of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Premium Materials",
+          "description": "We use only the highest quality stains and sealants, designed to withstand Nashville's climate extremes."
+        },
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Our experienced team delivers meticulous workmanship, ensuring a flawless and long-lasting finish."
+        },
+        {
+          "title": "Custom Color Matching",
+          "description": "We offer custom color matching to perfectly complement your home and landscaping."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work with a satisfaction guarantee. Your happiness is our top priority."
+        }
+      ],
+      "ctaHeadline": "Get a Free Fence Staining Quote Today!",
+      "ctaSubline": "Protect your investment and enhance your property's curb appeal. Contact us now for a free consultation."
+    },
+    "services": [
+      {
+        "slug": "fence-staining",
+        "name": "Fence Staining",
+        "shortDescription": "Protect and beautify your fence with our professional staining services.",
+        "description": "Nashville Fence Stain Company provides comprehensive fence staining services to protect your investment from the elements and enhance its natural beauty. Our skilled technicians carefully prepare the wood surface, applying premium-grade stains that penetrate deep into the wood fibers, providing long-lasting protection against moisture, sun damage, and decay. We offer a wide range of stain colors to perfectly match your home's exterior and landscaping. \n\nWhether you have a new fence that needs initial protection or an older fence that needs revitalization, we have the expertise and resources to deliver exceptional results. We work with all types of wood, including cedar, pine, and pressure-treated lumber. Our staining process not only enhances the appearance of your fence but also extends its lifespan, saving you money in the long run.\n\nDon't let Nashville's harsh weather conditions take a toll on your fence. Trust Nashville Fence Stain Company to provide professional staining services that will keep your fence looking its best for years to come.",
+        "process": [
+          "Step 1: Thorough Cleaning: We power wash the fence to remove dirt, mildew, and loose debris.",
+          "Step 2: Wood Preparation: We sand rough spots and repair minor damage to ensure a smooth surface.",
+          "Step 3: Stain Application: We apply the stain evenly, using brushes and sprayers for optimal coverage.",
+          "Step 4: Sealing (Optional): We apply a sealant to further protect the wood from the elements."
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Extended Fence Lifespan",
+          "Protection from Weather Damage",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I stain my fence in Nashville?",
+            "answer": "In Nashville's climate, we recommend staining your fence every 2-3 years to maintain optimal protection and appearance. Exposure to sun, rain, and humidity can accelerate wear and tear."
+          },
+          {
+            "question": "What type of stain is best for my fence?",
+            "answer": "The best type of stain depends on the type of wood and your desired aesthetic. We offer a variety of stain options, including oil-based, water-based, and semi-transparent stains, and can help you choose the right one for your needs."
+          },
+          {
+            "question": "How long does the staining process take?",
+            "answer": "The duration of the staining process depends on the size and condition of your fence. A typical fence staining project takes 1-2 days to complete."
+          }
+        ]
+      },
+      {
+        "slug": "fence-repair",
+        "name": "Fence Repair",
+        "shortDescription": "Reliable fence repair services to restore the integrity and appearance of your fence.",
+        "description": "Is your fence showing signs of wear and tear? Nashville Fence Stain Company offers comprehensive fence repair services to address a wide range of issues, from broken posts and loose boards to leaning sections and storm damage. We understand that a damaged fence not only detracts from your property's curb appeal but also compromises its security and privacy. \n\nOur experienced technicians will assess the damage and provide a cost-effective solution to restore your fence to its original condition. We use high-quality materials and proven techniques to ensure lasting repairs that withstand Nashville's weather conditions. Whether you have a wood, vinyl, or chain-link fence, we have the expertise to handle any repair project.\n\nDon't let a damaged fence become a safety hazard or an eyesore. Contact Nashville Fence Stain Company for prompt and reliable fence repair services.",
+        "process": [
+          "Step 1: Damage Assessment: We inspect the fence to identify all areas of damage.",
+          "Step 2: Material Selection: We choose the appropriate materials for the repair, matching the existing fence as closely as possible.",
+          "Step 3: Repair Execution: We replace broken posts, boards, and hardware, ensuring structural integrity.",
+          "Step 4: Quality Check: We inspect the repaired fence to ensure it meets our high standards."
+        ],
+        "benefits": [
+          "Improved Security and Privacy",
+          "Enhanced Curb Appeal",
+          "Prevention of Further Damage",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my fence needs repair?",
+            "answer": "Signs that your fence needs repair include broken posts, loose boards, leaning sections, and visible rot or decay. If you notice any of these issues, it's important to address them promptly to prevent further damage."
+          },
+          {
+            "question": "Can you repair fences damaged by storms?",
+            "answer": "Yes, we have extensive experience repairing fences damaged by storms. We can assess the damage and provide a comprehensive repair plan to restore your fence to its original condition."
+          },
+          {
+            "question": "How long does a fence repair take?",
+            "answer": "The duration of a fence repair depends on the extent of the damage. Minor repairs can be completed in a few hours, while more extensive repairs may take a day or two."
+          }
+        ]
+      },
+      {
+        "slug": "fence-cleaning",
+        "name": "Fence Cleaning",
+        "shortDescription": "Remove dirt, mildew, and algae with our professional fence cleaning services.",
+        "description": "Over time, fences accumulate dirt, mildew, algae, and other unsightly blemishes that can detract from their appearance. Nashville Fence Stain Company offers professional fence cleaning services to restore your fence to its original beauty. Our experienced technicians use specialized equipment and eco-friendly cleaning solutions to safely and effectively remove dirt and grime without damaging the wood.\n\nWe understand that Nashville's humid climate can promote the growth of mold and mildew, which can not only make your fence look dirty but also weaken the wood over time. Our fence cleaning services not only improve the appearance of your fence but also help to prevent further damage and extend its lifespan. \n\nWhether you have a wood, vinyl, or chain-link fence, we have the expertise to handle any cleaning project. Contact Nashville Fence Stain Company for professional fence cleaning services that will leave your fence looking fresh and revitalized.",
+        "process": [
+          "Step 1: Pre-Treatment: We apply a specialized cleaning solution to loosen dirt and grime.",
+          "Step 2: Power Washing: We use a low-pressure power washer to safely remove dirt and mildew.",
+          "Step 3: Rinsing: We thoroughly rinse the fence to remove all traces of cleaning solution.",
+          "Step 4: Inspection: We inspect the fence to ensure it is clean and free of blemishes."
+        ],
+        "benefits": [
+          "Improved Appearance",
+          "Removal of Mold and Mildew",
+          "Prevention of Wood Damage",
+          "Extended Fence Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my fence?",
+            "answer": "We recommend cleaning your fence at least once a year to remove dirt, mildew, and algae. In Nashville's humid climate, you may need to clean it more frequently."
+          },
+          {
+            "question": "Is power washing safe for wood fences?",
+            "answer": "When done correctly, power washing is safe for wood fences. We use a low-pressure setting and specialized nozzles to prevent damage to the wood."
+          },
+          {
+            "question": "Can you remove graffiti from fences?",
+            "answer": "Yes, we can remove graffiti from fences using specialized cleaning solutions and techniques."
+          }
+        ]
+      },
+      {
+        "slug": "wood-fence-installation",
+        "name": "Wood Fence Installation",
+        "shortDescription": "Expert wood fence installation services for Nashville homes and businesses.",
+        "description": "Nashville Fence Stain Company provides professional wood fence installation services tailored to the unique needs of Nashville properties. Whether you're looking to enhance your privacy, secure your property, or add curb appeal, a well-built wood fence is an excellent choice. We offer a wide range of wood fence styles, including privacy fences, picket fences, and decorative fences, to complement your home's architecture and landscaping. \n\nOur experienced team will handle every aspect of the installation process, from obtaining permits to setting posts and installing panels. We use only high-quality materials and proven construction techniques to ensure a durable and long-lasting fence. We understand the importance of proper drainage and soil conditions in Nashville, and we take extra precautions to prevent premature decay and ensure the stability of your fence.\n\nTrust Nashville Fence Stain Company to deliver exceptional wood fence installation services that will enhance the beauty and value of your property.",
+        "process": [
+          "Step 1: Consultation: We discuss your needs and preferences to determine the best fence style for your property.",
+          "Step 2: Permitting: We obtain the necessary permits from the city of Nashville.",
+          "Step 3: Installation: We set posts, install panels, and ensure proper alignment and stability.",
+          "Step 4: Cleanup: We remove all debris and leave your property clean and tidy."
+        ],
+        "benefits": [
+          "Increased Privacy and Security",
+          "Enhanced Curb Appeal",
+          "Property Value Appreciation",
+          "Custom Design Options"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to install a wood fence?",
+            "answer": "The duration of a wood fence installation depends on the size and complexity of the project. A typical installation takes 2-5 days."
+          },
+          {
+            "question": "Do I need a permit to install a fence in Nashville?",
+            "answer": "Yes, you typically need a permit to install a fence in Nashville. We can handle the permit application process for you."
+          },
+          {
+            "question": "What type of wood is best for fences in Nashville?",
+            "answer": "Cedar and pressure-treated pine are popular choices for fences in Nashville due to their durability and resistance to decay."
+          }
+        ]
+      },
+      {
+        "slug": "fence-painting",
+        "name": "Fence Painting",
+        "shortDescription": "Refresh and protect your fence with our professional fence painting services.",
+        "description": "Nashville Fence Stain Company offers professional fence painting services to revitalize your existing fence and protect it from the elements. Painting your fence is a cost-effective way to enhance its appearance, cover up stains and blemishes, and prolong its lifespan. We use high-quality exterior paints that are specifically formulated to withstand Nashville's weather conditions.\n\nOur experienced painters will carefully prepare the fence surface, ensuring proper adhesion and a flawless finish. We offer a wide range of paint colors to match your home's exterior and landscaping. Whether you want to refresh the existing color or completely transform the look of your fence, we have the expertise and resources to deliver exceptional results.\n\nDon't let a faded or peeling fence detract from your property's curb appeal. Contact Nashville Fence Stain Company for professional fence painting services that will leave your fence looking fresh and revitalized.",
+        "process": [
+          "Step 1: Surface Preparation: We clean and sand the fence to ensure proper paint adhesion.",
+          "Step 2: Priming: We apply a primer to seal the wood and create a smooth surface for painting.",
+          "Step 3: Painting: We apply two coats of high-quality exterior paint for optimal coverage and protection.",
+          "Step 4: Cleanup: We remove all debris and leave your property clean and tidy."
+        ],
+        "benefits": [
+          "Enhanced Appearance",
+          "Protection from Weather Damage",
+          "Increased Property Value",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How long does fence paint last?",
+            "answer": "The lifespan of fence paint depends on the quality of the paint and the weather conditions. In Nashville, fence paint typically lasts 5-7 years."
+          },
+          {
+            "question": "What type of paint is best for fences?",
+            "answer": "Exterior acrylic latex paint is a good choice for fences due to its durability and resistance to fading and cracking."
+          },
+          {
+            "question": "Can you paint a stained fence?",
+            "answer": "Yes, we can paint a stained fence. However, we will need to properly prepare the surface to ensure proper paint adhesion."
+          }
+        ]
+      },
+      {
+        "slug": "gate-installation-repair",
+        "name": "Gate Installation & Repair",
+        "shortDescription": "Secure and enhance your property with our gate installation and repair services.",
+        "description": "Nashville Fence Stain Company provides comprehensive gate installation and repair services to ensure the security and functionality of your property. Whether you need a new gate installed or an existing gate repaired, we have the expertise and resources to deliver exceptional results. We offer a wide range of gate styles, including wooden gates, metal gates, and automatic gates, to complement your fence and enhance your property's curb appeal. \n\nOur experienced technicians will handle every aspect of the installation or repair process, from selecting the right materials to ensuring proper alignment and functionality. We understand the importance of a secure and reliable gate, and we take extra precautions to ensure that your gate operates smoothly and provides long-lasting protection. Whether you need a simple gate latch repair or a complete gate replacement, we are here to help.\n\nTrust Nashville Fence Stain Company to deliver professional gate installation and repair services that will enhance the security and value of your property.",
+        "process": [
+          "Step 1: Consultation: We discuss your needs and preferences to determine the best gate style for your property.",
+          "Step 2: Installation/Repair: We install or repair the gate, ensuring proper alignment and functionality.",
+          "Step 3: Hardware Installation: We install the necessary hardware, such as latches, hinges, and handles.",
+          "Step 4: Testing: We test the gate to ensure it operates smoothly and securely."
+        ],
+        "benefits": [
+          "Increased Security",
+          "Enhanced Curb Appeal",
+          "Improved Functionality",
+          "Property Value Appreciation"
+        ],
+        "faq": [
+          {
+            "question": "How much does it cost to install a gate?",
+            "answer": "The cost of gate installation depends on the size, style, and materials used. We offer free estimates for all gate installation projects."
+          },
+          {
+            "question": "Can you repair automatic gates?",
+            "answer": "Yes, we can repair automatic gates. We have experience working with a variety of automatic gate systems."
+          },
+          {
+            "question": "What type of gate is best for my property?",
+            "answer": "The best type of gate depends on your needs and preferences. We can help you choose the right gate style to complement your fence and enhance your property's security and appearance."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Franklin",
+        "slug": "franklin-tn",
+        "state": "TN",
+        "content": "Nashville Fence Stain Company is proud to offer our premium fence staining and sealing services to the residents of Franklin, Tennessee. Known for its historic downtown and beautiful antebellum homes, Franklin deserves fences that complement its rich heritage. We understand the unique aesthetic considerations of this area and are committed to providing staining solutions that enhance the beauty and longevity of your fence.\n\nOur team is experienced in working with a variety of fence materials, from traditional wood to modern composites. We also understand the impact of Franklin's hot, humid summers on fences and will recommend the best staining and sealing products to protect your investment from the elements. Whether you need to refresh an existing fence or stain a brand new one, Nashville Fence Stain Company is here to help.",
+        "localContext": "We understand Franklin's blend of historic charm and modern living, and we tailor our services to meet the specific needs of this community, ensuring your fence enhances the overall aesthetic of your property.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Thompson's Station",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Murfreesboro",
+        "slug": "murfreesboro-tn",
+        "state": "TN",
+        "content": "Nashville Fence Stain Company is your trusted partner for fence staining and sealing in Murfreesboro, Tennessee. As one of the fastest-growing cities in Tennessee, Murfreesboro is known for its affordable family developments and thriving community. We're dedicated to providing top-quality fence staining services to homeowners throughout the area.\n\nWe understand the importance of protecting your fence investment, especially with the humid summers that Murfreesboro experiences. Our team uses only the best stains and sealants to ensure your fence is protected from the elements and looks great for years to come. From new fence installations to revitalizing existing fences, we're here to serve your needs.",
+        "localContext": "We recognize Murfreesboro's focus on family living and affordability, and we strive to provide efficient and cost-effective fence staining solutions to protect and enhance your home's value.",
+        "nearbyAreas": [
+          "Smyrna",
+          "La Vergne",
+          "Shelbyville"
+        ]
+      },
+      {
+        "city": "Brentwood",
+        "slug": "brentwood-tn",
+        "state": "TN",
+        "content": "Nashville Fence Stain Company provides expert fence staining and sealing services throughout Brentwood, Tennessee. Known for its luxury estates and beautifully wooded lots, Brentwood demands the highest standards of quality and craftsmanship. We're committed to delivering exceptional results that enhance the beauty and value of your property.\n\nOur team is experienced in working with a variety of high-end fence materials and designs. We understand the unique aesthetic considerations of Brentwood and will work closely with you to choose the perfect stain and sealant to complement your home's architecture and landscaping. We protect your investment from the hot, humid summers with premium products.",
+        "localContext": "We understand Brentwood's emphasis on luxury living and privacy, and we tailor our services to provide discreet and high-quality fence staining that enhances the elegance of your property.",
+        "nearbyAreas": [
+          "Franklin",
+          "Nashville",
+          "Nolensville"
+        ]
+      },
+      {
+        "city": "Hendersonville",
+        "slug": "hendersonville-tn",
+        "state": "TN",
+        "content": "Nashville Fence Stain Company is proud to serve Hendersonville, Tennessee, with our professional fence staining and sealing services. Situated on the beautiful Old Hickory Lake, Hendersonville boasts stunning lakefront homes and a vibrant community. We're dedicated to helping homeowners protect and enhance their fences with our expert staining solutions.\n\nWe understand the impact of the lakefront environment and the hot, humid summers on fences in Hendersonville. Our team uses only the highest-quality stains and sealants to ensure your fence is protected from moisture, sun damage, and other environmental factors. Whether you have a wood, vinyl, or composite fence, we have the expertise to deliver lasting results.",
+        "localContext": "We understand Hendersonville's unique lakefront lifestyle, and we offer specialized fence staining solutions that protect your fence from the elements and complement the beauty of your home and surrounding landscape.",
+        "nearbyAreas": [
+          "Gallatin",
+          "Goodlettsville",
+          "Madison"
+        ]
+      },
+      {
+        "city": "Nashville",
+        "slug": "nashville-tn",
+        "state": "TN",
+        "content": "As a local business, Nashville Fence Stain Company is dedicated to providing top-quality fence staining and sealing services throughout Nashville, Tennessee. From historic neighborhoods to modern developments, we're committed to helping homeowners protect and beautify their fences. We understand the diverse needs of Nashville residents and offer a wide range of staining options to suit any style.\n\nWe use only the best stains and sealants to ensure your fence is protected from the elements and looks great for years to come. Our team is experienced in working with all types of fences, and we're committed to delivering exceptional results that exceed your expectations. Whether you need to stain a new fence or refresh an existing one, Nashville Fence Stain Company is here to help.",
+        "localContext": "We are deeply familiar with Nashville's diverse neighborhoods and architectural styles, and we tailor our fence staining services to enhance the unique character of each property.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Goodlettsville",
+          "Antioch"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-tn",
+        "state": "TN",
+        "content": "Nashville Fence Stain Company is pleased to offer our expert fence staining and sealing services to the residents of Smyrna, Tennessee. Smyrna is a growing community with a mix of residential and commercial properties, and we are dedicated to providing the best possible fence staining solutions to meet the needs of our customers.\n\nWe understand the importance of protecting your fence investment, especially with the climate in Smyrna. Our team uses only the highest quality stains and sealants to ensure your fence is protected from the elements and looks great for years to come. We offer a wide range of staining options to suit any style and budget.",
+        "localContext": "We understand Smyrna's growth and diverse community, and we offer a variety of fence staining solutions to meet the needs of homeowners and businesses alike.",
+        "nearbyAreas": [
+          "Murfreesboro",
+          "La Vergne",
+          "Antioch"
+        ]
+      },
+      {
+        "city": "La Vergne",
+        "slug": "la-vergne-tn",
+        "state": "TN",
+        "content": "Nashville Fence Stain Company provides professional fence staining and sealing services in La Vergne, Tennessee. We understand that La Vergne residents value quality and affordability when it comes to home improvement projects. We're committed to providing durable, long-lasting fence staining solutions that enhance the beauty and value of your property.\n\nOur team is skilled in working with various fence types and materials. We use top-quality stains and sealants to protect your fence from the elements, ensuring it withstands the test of time. We can help you choose the perfect stain color and finish to complement your home's exterior and landscaping.",
+        "localContext": "We appreciate La Vergne's focus on community and value, and we offer cost-effective fence staining services that enhance the curb appeal of your home.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Antioch",
+          "Murfreesboro"
+        ]
+      },
+      {
+        "city": "Gallatin",
+        "slug": "gallatin-tn",
+        "state": "TN",
+        "content": "Nashville Fence Stain Company is proud to serve the Gallatin, Tennessee community with our professional fence staining and sealing services. Gallatin is a vibrant city with a mix of historic charm and modern development. We're committed to providing top-quality fence staining solutions that enhance the beauty and longevity of your fence.\n\nWe understand the importance of protecting your fence investment, especially with the changing weather conditions in Gallatin. Our team uses only the best stains and sealants to ensure your fence is protected from moisture, sun damage, and other environmental factors. Whether you have a wood, vinyl, or composite fence, we have the expertise to deliver lasting results.",
+        "localContext": "We understand Gallatin's blend of history and progress, and we offer fence staining services that complement the architectural style of your home and the surrounding landscape.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Goodlettsville",
+          "Portland"
+        ]
+      },
+      {
+        "city": "Goodlettsville",
+        "slug": "goodlettsville-tn",
+        "state": "TN",
+        "content": "Nashville Fence Stain Company is dedicated to providing exceptional fence staining and sealing services in Goodlettsville, Tennessee. Known for its friendly community and convenient location, Goodlettsville deserves high-quality fence solutions that enhance the beauty and value of homes throughout the area. We understand the unique needs of Goodlettsville homeowners and are committed to delivering outstanding results.\n\nOur team is experienced in working with a variety of fence materials and designs. We understand the impact of the local climate on fences and will recommend the best staining and sealing products to protect your investment from the elements. Whether you need to refresh an existing fence or stain a brand new one, Nashville Fence Stain Company is here to help.",
+        "localContext": "We understand Goodlettsville's focus on community and convenience, and we tailor our services to provide efficient and reliable fence staining that enhances the appeal of your home.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Madison",
+          "Nashville"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Fence Staining",
+        "text": "Nashville Fence Stain Company did an amazing job staining our fence! Our old fence was looking rough, but now it looks brand new. The color is perfect, and the crew was professional and efficient. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Fence Repair",
+        "text": "We had a section of our fence damaged in a recent storm. Nashville Fence Stain Company came out quickly and repaired it seamlessly. You can't even tell there was ever any damage. Great service!",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Wood Fence Installation",
+        "text": "From start to finish, the team at Nashville Fence Stain Company was fantastic. They helped us choose the perfect wood fence for our property, and the installation was flawless. Our backyard feels so much more private now!",
+        "date": "2024-10-20"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Fence Cleaning",
+        "text": "I was shocked at how much better my fence looked after Nashville Fence Stain Company cleaned it. All the mildew and grime were gone, and the wood looked like new again. Definitely worth the investment!",
+        "date": "2024-08-05"
+      },
+      {
+        "name": "Lisa B.",
+        "rating": 4,
+        "service": "Gate Repair",
+        "text": "Our gate was dragging and difficult to open. Nashville Fence Stain Company repaired it quickly and efficiently. Now it swings smoothly and latches securely. Very happy with their service.",
+        "date": "2024-06-12"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Fence Staining",
+        "text": "Excellent work by Nashville Fence Stain Company. They prepped the fence carefully, applied the stain evenly, and cleaned up thoroughly afterward. Our fence looks beautiful, and we know it's well-protected from the elements.",
+        "date": "2024-04-28"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Nashville Fence Stain Company | Expert Services",
+        "description": "Nashville's top fence staining, repair, installation. Protect your fence with premium materials. Free quotes!"
+      },
+      "about": {
+        "title": "About Us | Nashville Fence Stain Company",
+        "description": "Learn about Nashville Fence Stain Company's history, values, and commitment to the Nashville community."
+      },
+      "services": {
+        "title": "Fence Services | Nashville Fence Stain Company",
+        "description": "Comprehensive fence staining, repair, cleaning, and installation services in Nashville, TN. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact Us | Nashville Fence Stain Company",
+        "description": "Contact Nashville Fence Stain Company for a free quote or to schedule service. Serving Nashville and surrounding areas."
+      },
+      "reviews": {
+        "title": "Reviews | Nashville Fence Stain Company",
+        "description": "Read reviews from satisfied customers of Nashville Fence Stain Company. See why we're Nashville's trusted fence experts."
+      },
+      "service-areas": {
+        "title": "Service Areas | Nashville Fence Stain Company",
+        "description": "Nashville Fence Stain Company provides fence services in Nashville, Franklin, Murfreesboro, Brentwood, and Hendersonville."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "fence-staining": "/images/service-fence-staining.webp",
+      "fence-repair": "/images/service-fence-repair.webp",
+      "fence-cleaning": "/images/service-fence-cleaning.webp",
+      "wood-fence-installation": "/images/service-wood-fence-installation.webp",
+      "fence-painting": "/images/service-fence-painting.webp",
+      "gate-installation-repair": "/images/service-gate-installation-repair.webp"
+    },
+    "servicesResponsive": {
+      "fence-staining": {
+        "src": "/images/service-fence-staining.webp",
+        "srcset": "/images/service-fence-staining-400w.webp 400w, /images/service-fence-staining-800w.webp 800w, /images/service-fence-staining-1200w.webp 1200w, /images/service-fence-staining.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-repair": {
+        "src": "/images/service-fence-repair.webp",
+        "srcset": "/images/service-fence-repair-400w.webp 400w, /images/service-fence-repair-800w.webp 800w, /images/service-fence-repair-1200w.webp 1200w, /images/service-fence-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-cleaning": {
+        "src": "/images/service-fence-cleaning.webp",
+        "srcset": "/images/service-fence-cleaning-400w.webp 400w, /images/service-fence-cleaning-800w.webp 800w, /images/service-fence-cleaning-1200w.webp 1200w, /images/service-fence-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-fence-installation": {
+        "src": "/images/service-wood-fence-installation.webp",
+        "srcset": "/images/service-wood-fence-installation-400w.webp 400w, /images/service-wood-fence-installation-800w.webp 800w, /images/service-wood-fence-installation-1200w.webp 1200w, /images/service-wood-fence-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-painting": {
+        "src": "/images/service-fence-painting.webp",
+        "srcset": "/images/service-fence-painting-400w.webp 400w, /images/service-fence-painting-800w.webp 800w, /images/service-fence-painting-1200w.webp 1200w, /images/service-fence-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gate-installation-repair": {
+        "src": "/images/service-gate-installation-repair.webp",
+        "srcset": "/images/service-gate-installation-repair-400w.webp 400w, /images/service-gate-installation-repair-800w.webp 800w, /images/service-gate-installation-repair-1200w.webp 1200w, /images/service-gate-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
